@@ -276,9 +276,9 @@ This allows for an instant "Live Product" experience.
 
 ## ✍️ Author
 
-**Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Project Repository: [Ethara Project](https://github.com/YOUR_USERNAME/YOUR_REPO)
+**Siddhant**
+- GitHub: [@Siddhant-0912](https://github.com/Siddhant-0912)
+- Project Repository: [TeamFlow](https://github.com/Siddhant-0912/TeamFlow-TaskManager)
 
 ---
 *Built with ❤️ for teams that move fast.*
