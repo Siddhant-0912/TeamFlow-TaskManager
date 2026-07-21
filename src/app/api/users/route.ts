@@ -18,3 +18,4 @@ export async function GET() {
     return NextResponse.json({ error: getErrorMessage(error) }, { status: 500 });
   }
 }
+

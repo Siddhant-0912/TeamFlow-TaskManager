@@ -28,3 +28,4 @@ export async function POST() {
     return ApiResponse.serverError(getErrorMessage(error));
   }
 }
+

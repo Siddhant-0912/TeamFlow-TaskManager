@@ -22,3 +22,4 @@ export async function GET() {
     return ApiResponse.serverError(getErrorMessage(error));
   }
 }
+

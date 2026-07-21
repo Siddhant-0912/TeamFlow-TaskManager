@@ -22,3 +22,4 @@ export function ThemeToggle({ compact = false }: { compact?: boolean }) {
     </Button>
   );
 }
+
